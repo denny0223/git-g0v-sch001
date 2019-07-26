@@ -200,7 +200,7 @@ Kernel commit - <br />
 --
 
 <h1 style="font-size: 64px">
-  [臺灣 自由/開源 軟硬體<br />社群列表](https://www.mindmeister.com/hk/303031964/open-source-community-map-in-taiwan)
+  [開源社群推廣目錄](https://hackmd.io/@SITCON/floss-community-list)
 </h1>
 
 --
