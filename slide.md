@@ -50,7 +50,7 @@ output: index.html
 --
 
 # Free Software, Open Source, FLOSS
-## [ref1](http://www.openfoundry.org/tw/legal-column-list/508-2010-07-15-10-50-34) / [ref2](https://www.gnu.org/philosophy/free-software-for-freedom.html)
+## [ref1](https://ossf.denny.one/tw/legal-column-list/508-2010-07-15-10-50-34) / [ref2](https://www.gnu.org/philosophy/free-software-for-freedom.html)
 
 --
 
@@ -171,7 +171,7 @@ Kernel commit - <br />
 
 # License
 <div align="center">
-  <a href="http://www.openfoundry.org/tw/licenses" target="_blank">授權條款介紹 - OpenFoundry</a>
+  <a href="https://ossf.denny.one/tw/licenses" target="_blank">授權條款介紹 - OpenFoundry</a>
 </div>
 
 --
