@@ -25,7 +25,7 @@ output: index.html
 
 * SITCON 2013, 2014 總召
 
-* <a href="http://about.me/denny0223" target="_blank">About me</a>
+* <a href="https://denny.one/" target="_blank">About me</a>
 
 --
 
