@@ -22,9 +22,20 @@ output: index.html
 
 * 雷亞遊戲 Rayark Inc.
 
-* SITCON 學生計算機年會 共同發起人
+* <a href="https://sitcon.org/" target="_blank">SITCON 學生計算機年會</a> 共同發起人
 
 * <a href="https://denny.one/" target="_blank">https://denny.one/</a>
+
+--
+
+### Tips
+- 預錄影片
+	- 暫停/快轉/倒帶/兩倍速
+- Slack 提問
+	- 頻道
+		- #edu-camp
+		- #edu
+	- 呼喚講師 @denny
 
 --
 
@@ -32,7 +43,7 @@ output: index.html
 
 <div align="center">
   <br />
-  <img style="width:800px" src="./img/final-report.png" />
+  <img style="width: 800px" src="./img/final-report.png" />
 </div>
 
 --
@@ -41,14 +52,21 @@ output: index.html
 
 <div align="center">
   <br />
-  <img style="width:600px" src="./img/line1.jpg" /><br />
+  <img style="width: 600px" src="./img/line1.jpg" /><br />
   <br />
-  <img style="width:500px" src="./img/line2.jpg" />
+  <img style="width: 450px" src="./img/line2.jpg" />
 </div>
 
 --
 
-# 專案
+### 專案
+
+- 專案資料
+	- 文件
+	- 程式碼
+- 溝通平台
+- 事件/議題管理
+- 接收意見及回饋
 
 --
 
@@ -83,6 +101,31 @@ output: index.html
 
 --
 
+# 軟體開發
+
+--
+
+### Linus Torvalds
+<div align="center">
+  <br />
+  <img style="height: 400px" src="./img/Linus_Torvalds.jpg" />
+</div>
+<div align="right">
+  <font size="3">
+  	From Wikimedia Commons, by Krd
+  </font>
+</div>
+
+--
+
+### Linux
+<div align="center">
+  <br />
+  <img style="height: 400px" src="./img/Tux.svg" />
+</div>
+
+--
+
 # Git
 
 --
@@ -97,14 +140,11 @@ output: index.html
 
 --
 
-# [git-it](https://github.com/jlord/git-it-electron/releases)
+# [git-it](https://www.electronjs.org/apps/git-it)<br /><br />
+## [走完教學，在這看到自己的名字吧！](https://jlord.github.io/patchwork/)
 
 --
 
-# Linus Torvalds
-## Linux
-
---
 
 ### 10 year
 
@@ -135,7 +175,7 @@ output: index.html
 
 <br /><br /><br />
 <div align="center">
-  <img style="width:100px;" src="./img/by-sa.png" />
+  <img style="width: 100px;" src="./img/by-sa.png" />
 </div>
 <h2 style="font-size: 18px">
 本投影片採用<a href="http://creativecommons.org/licenses/by-sa/3.0/tw/" target="_blank">創用 CC「姓名標示—相同方式分享 3.0 台灣」授權條款</a>
