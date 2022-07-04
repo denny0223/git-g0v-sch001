@@ -39,6 +39,12 @@ output: index.html
 
 --
 
+<h1 style="font-size: 48px">
+[denny.one/git-g0v-sch001/](https://denny.one/git-g0v-sch001/)
+</h1>
+
+--
+
 ### 常見慘案
 
 <div align="center">
