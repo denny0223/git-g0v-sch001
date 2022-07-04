@@ -1,16 +1,15 @@
-title: 大學時就該知道的 Git 版本控制
+title: 協作不想吵架？快用版本控制系統！
 output: index.html
 
 --
 
 <h1 style="font-size: 72px">
-	大學時就該知道的<br />
-	Git 版本控制
+	協作不想吵架？<br />
+	快用版本控制系統！
 </h1>
 <br />
 
 ## Denny Huang
-## 2017/04/26
 
 --
 
@@ -23,77 +22,64 @@ output: index.html
 
 * 雷亞遊戲 Rayark Inc.
 
-* SITCON 2013, 2014 總召
+* SITCON 學生計算機年會 共同發起人
 
-* <a href="https://denny.one/" target="_blank">About me</a>
-
---
-
-# [YouTube](https://www.youtube.com/watch?v=eznLhINAvQI)
-## git denny
+* <a href="https://denny.one/" target="_blank">https://denny.one/</a>
 
 --
 
-# Open Source
-
---
+### 常見慘案
 
 <div align="center">
-<iframe width="780" height="500" src="https://www.youtube.com/embed/6NhyCXJU-IQ" frameborder="0" allowfullscreen></iframe>
-</div>
-<div align="right">
-  <font size="3">
-     By Bit Blueprint / Jimmy Huang
-  </font>
+  <br />
+  <img style="width:800px" src="./img/final-report.png" />
 </div>
 
 --
 
-# Free Software, Open Source, FLOSS
-## [ref1](https://ossf.denny.one/tw/legal-column-list/508-2010-07-15-10-50-34) / [ref2](https://www.gnu.org/philosophy/free-software-for-freedom.html)
+### 甚至更慘的
+
+<div align="center">
+  <br />
+  <img style="width:600px" src="./img/line1.jpg" /><br />
+  <br />
+  <img style="width:500px" src="./img/line2.jpg" />
+</div>
 
 --
 
-# Richard Stallman
+# 專案
 
 --
 
-# GNU
+<h1 style="font-size: 72px">
+  線上協作 / 版本控制
+</h1>
 
 --
 
-# Linus Torvalds
-## Linux
+### 誰？改了什麼？
+<div align="center">
+  <br />
+  <img style="width:800px" src="./img/google-docs-edit-history.png" />
+</div>
 
 --
 
-# GNU/Linux
+### 動手之前，充分討論，釐清權責人
+<div align="center">
+  <br />
+  <img style="width:800px" src="./img/google-docs-assign.png" />
+</div>
 
 --
 
-# 生活中
+### 提出修改，並充分說明原因
 
---
-
-# How to Cowork?
-
---
-
-# Software Engineering
-
---
-
-### Waterfall model
-
-* Request and Analysis Phase（需求與分析階段）
-
-* Design Phase（設計階段）
-
-* Coding Phase （撰寫階段）
-
-* Testing Phase（測試階段）
-
-* Maintenance Phase （維護階段）
+<div align="center">
+  <br />
+  <img style="width:800px" src="./img/google-docs-suggesting.png" />
+</div>
 
 --
 
@@ -106,66 +92,25 @@ output: index.html
 
 --
 
-
-# [大教堂和市集](https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%95%99%E5%A0%82%E5%92%8C%E5%B8%82%E9%9B%86)
-
---
-
-# Mailing list
-## [Google Groups](http://groups.google.com/)
+# [YouTube](https://www.youtube.com/watch?v=eznLhINAvQI)
+## git denny
 
 --
 
-# [vger.kernel.org](http://vger.kernel.org/)
+# [git-it](https://github.com/jlord/git-it-electron/releases)
 
 --
 
-# [LKML](https://lkml.org/)
+# Linus Torvalds
+## Linux
 
 --
 
-# Issue
-## [wrong example](https://github.com/nwjs/nw.js/issues/293)
-## [維護一個大型開源項目是怎樣的體驗？](https://www.zhihu.com/question/36292298/answer/160028010)
+### 10 year
 
---
+* <a href="http://ithome.com.tw/news/95088" target="_blank">Git 十歲了！Git 之父 Linus Torvalds 說古，大談 Git 的起源</a>
 
-# Example: AOSP
-## [Report Bugs](https://source.android.com/source/report-bugs)
-
---
-
-# Pull Request
-## [git-it](https://github.com/jlord/git-it/blob/master/README-zhtw.md)
-
---
-
-# Branch
-
---
-
-<div align="center">
-  <img style="width:450px" src="./img/git_branching_model.png" />
-</div>
-
---
-
-### Contribution is easy
-Kernel commit - <br />
-4 year old girl fixes formatting to make 's' happy<br />
-<br />
-<br />
-[ref](http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=690b0543a813b0ecfc51b0374c0ce6c8275435f0)
-
---
-
-<h1 style="font-size: 48px">
-	Open Source Your Project
-</h1>
-
---
-
-# [Scrabble](https://github.com/denny0223/scrabble)
+* <a href="https://www.atlassian.com/git/articles/10-years-of-git/" target="_blank">10 Years of Git</a>
 
 --
 
@@ -176,33 +121,7 @@ Kernel commit - <br />
 
 --
 
-# CI / CD
-## Continuous Integration / Continuous Delivery
-
---
-
-<div align="center">
-  <img style="width:800px" src="./img/ci.png" />
-</div>
-
---
-
-### 10 year
-
-* <a href="https://www.atlassian.com/git/articles/10-years-of-git/" target="_blank">10 Years of Git</a>
-
-* <a href="http://ithome.com.tw/news/95088" target="_blank">Git 十歲了！Git 之父 Linus Torvalds 說古，大談 Git 的起源</a>
-
---
-
-# Community
-
---
-
-<h1 style="font-size: 64px">
-  [臺灣 自由/開源 軟硬體社群列表](https://www.mindmeister.com/303031964/open-source-community-map-in-taiwan)
-  [開源社群推廣目錄](https://hackmd.io/@SITCON/floss-community-list)
-</h1>
+# [OSCVPass](https://oscvpass.ocf.tw/)
 
 --
 
