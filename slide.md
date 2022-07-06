@@ -141,13 +141,104 @@ output: index.html
 
 --
 
+### Git
+版本控制系統軟體，供本機使用。
+
+### [GitHub](https://github.com/)
+程式碼託管平台，可以將 Git 版本庫（repository）存放到此並與他人一同協作，也提供議題管理（Issue Tracking）、[網頁代管（GitHub Pages）](https://pages.github.com/)等服務。
+
+### [GitLab](https://gitlab.com/)
+與 GitHub 功能相似的另一選擇，專案管理及 [CI/CD （持續集成和持續交付）](https://zh.wikipedia.org/zh-tw/CI/CD)功能十分優異。
+
+--
+
+# 專案管理實例
+
+--
+
+### 軟體專案 - [OPass](https://opass.app/) Android
+
+- 專案資料
+	- [文件](https://hackmd.io/@OPass)
+	- [程式碼](https://github.com/CCIP-App/CCIP-Android)
+- 溝通平台
+	- 開發團隊 Telegram 群組
+- 事件/議題管理
+	- [GitHub Issue](https://github.com/CCIP-App/CCIP-Android/issues)
+- 接收意見及回饋
+	- Google Play 評價
+	- [GitHub Pull Request](https://github.com/CCIP-App/CCIP-Android/pulls?q=is%3Apr+is%3Aclosed)
+
+--
+
+### 活動專案 - [SITCON 學生計算機年會](https://sitcon.org)
+- 專案資料
+	- [文件](https://hackmd.io/@SITCON/doc)
+	- [程式碼](https://github.com/sitcon-tw/)
+- 溝通平台
+	- [Mailing List](https://groups.google.com/g/sitcon-general/)
+	- 工作人員 Telegram 群組
+- 事件/議題管理
+	- [GitLab Issue Board](https://gitlab.com/sitcon-tw/2022/2022-board/-/boards)
+- 接收意見及回饋
+	- 會後問卷及社群媒體
+
+--
+
 # [YouTube](https://www.youtube.com/watch?v=eznLhINAvQI)
 ## git denny
 
 --
 
-# [git-it](https://www.electronjs.org/apps/git-it)<br /><br />
+### [Git-it](https://www.electronjs.org/apps/git-it)
+一步步教學，從安裝 Git 開始學會基本操作建立版本庫開始程式碼版本控制，並推送到 GitHub 上能夠與他人協作。
+
+後半段為副本他人專案，並提供修改建議得到採納。
+
+<br />
 ## [走完教學，在這看到自己的名字吧！](https://jlord.github.io/patchwork/)
+
+--
+
+### 安裝 Git 並在本地操作推送到 GitHub
+
+1. Get Git
+
+1. Repository
+
+1. Commit To It
+
+1. GitHubbin
+
+1. Remote Control
+
+<div align="right">
+  <font size="4">
+  	若需中文翻譯，可參考[專案原始碼](https://github.com/jlord/git-it-electron/tree/2f24d94094eb100cc0c643eae3f819ee7c51ba99/resources/contents/zh-TW/challenges)
+  </font>
+</div>
+
+--
+
+### 副本他人專案並提出修改
+
+6. Forks And Clones
+
+6. Branches Aren't Just For Birds
+
+6. It's A Small World
+
+6. Pull Never Out Of Date
+
+6. Requesting You Pull Please
+
+6. Merge Tada
+
+<div align="right">
+  <font size="4">
+  	若需中文翻譯，可參考[專案原始碼](https://github.com/jlord/git-it-electron/tree/2f24d94094eb100cc0c643eae3f819ee7c51ba99/resources/contents/zh-TW/challenges)
+  </font>
+</div>
 
 --
 
