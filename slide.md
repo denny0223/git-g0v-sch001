@@ -272,9 +272,9 @@ output: index.html
 
 <br /><br /><br />
 <div align="center">
-  <img style="width: 100px;" src="./img/by-sa.png" />
+  <img style="width: 100px;" src="./img/by.svg" />
 </div>
 <h2 style="font-size: 18px">
-本投影片採用<a href="http://creativecommons.org/licenses/by-sa/3.0/tw/" target="_blank">創用 CC「姓名標示—相同方式分享 3.0 台灣」授權條款</a>
+本投影片採用<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">創用 CC「姓名標示 4.0 國際（CC BY 4.0）」授權條款</a>
 </h2>
 
