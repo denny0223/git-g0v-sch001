@@ -10,6 +10,7 @@ output: index.html
 <br />
 
 ## Denny Huang
+## [課程錄影](https://www.youtube.com/watch?v=-mcjQxoyaEI)
 
 --
 
