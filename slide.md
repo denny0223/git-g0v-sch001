@@ -191,13 +191,21 @@ output: index.html
 
 --
 
-### [Git-it](https://www.electronjs.org/apps/git-it)
-一步步教學，從安裝 Git 開始學會基本操作建立版本庫開始程式碼版本控制，並推送到 GitHub 上能夠與他人協作。
+### 課程目標
+透過 Git-it 一步步完成教學，從安裝 Git 開始學會基本操作建立版本庫開始程式碼版本控制，並推送到 GitHub 上能夠與他人協作。
 
 後半段為副本他人專案，並提供修改建議得到採納。
 
 <br />
 ## [走完教學，在這看到自己的名字吧！](https://jlord.github.io/patchwork/)
+
+--
+
+### 下載 [Git-it](https://github.com/jlord/git-it-electron/releases)
+下載與作業系統相符的 .zip 檔案
+<div align="center">
+  <img style="width: 800px" src="./img/download-git-it.png" />
+</div>
 
 --
 
